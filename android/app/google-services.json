@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390929854081",
+    "project_id": "note-taker-e8a9c",
+    "storage_bucket": "note-taker-e8a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390929854081:android:33593c7ed011d3f1ae6780",
+        "android_client_info": {
+          "package_name": "com.example.notes_taker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTNNJj-awUOaWCe2bvO_9NW2uGeDG9Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
